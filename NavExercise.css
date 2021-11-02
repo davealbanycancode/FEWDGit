@@ -1,0 +1,18 @@
+/* CSS rules for NavExercise.html */
+
+body {
+  margin: 1in;
+  font-family: arial;
+}
+/* Add some CSS properties to .navbar to change the menu */
+.navbar {
+
+}
+a {
+  text-decoration:none; 
+  color:black;
+  border: 2px solid gray;
+  border-radius: 4px;
+  background-color:#ddeeff;
+  padding: 4px;  
+}
